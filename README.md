@@ -11,13 +11,16 @@ Run the script and enter the main topic you want to research.
 Optionally, enter the number of websites to scrape per query (default is 3).
 The script will automate the research, extract content, and allow you to search for specific information.
 You can save the research data to files for future reference.
-Dependencies
+
+# Dependencies
 requests
 beautifulsoup4
 urllib.parse
 json
+
 License
 This project is licensed under the MIT License.
 Author
-[Macki Marinez]
+Macki Marinez
 Note: This README file is just a suggestion, and you can modify it to fit your project's specific needs.
+Please Enjoy and have a good day!!!
